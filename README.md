@@ -1,6 +1,6 @@
 # Solar Households
 
-**An agent-based simulation of a small solar-powered neighbourhood, where every household learns to manage its own energy.**
+**The model was also developed from the perspective of Conway’s Game of Life, seeking to represent patterns of collapse that may emerge within a closed system operating without external regulation.**
 
 **Live app:** [solarhouseholds.org](https://solarhouseholds.org) · 📝 **Research survey:** [Give feedback](https://forms.office.com/r/FcG6dysQ3B) · 📄 [Participant Information Statement (PDF)](https://solarhouseholds.org/pis.pdf)
 
@@ -75,8 +75,6 @@ cd <your-repo>
 Or simply try the hosted version at **[solarhouseholds.org/app](https://solarhouseholds.org/app)**.
 
 ## Project Structure
-
-> Replace with your actual layout.
 
 ```
 .
