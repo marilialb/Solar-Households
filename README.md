@@ -1,6 +1,6 @@
 # Solar Households
 
-**The model was also developed from the perspective of Conway’s Game of Life, seeking to represent patterns of collapse that may emerge within a closed system operating without external regulation.**
+**The model was developed from the perspective of Conway’s Game of Life, seeking to represent patterns of collapse that may emerge within a closed system operating without external regulation.**
 
 **Live app:** [solarhouseholds.org](https://solarhouseholds.org) · 📝 **Research survey:** [Give feedback](https://forms.office.com/r/FcG6dysQ3B) · 📄 [Participant Information Statement (PDF)](https://solarhouseholds.org/pis.pdf)
 
