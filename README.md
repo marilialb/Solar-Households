@@ -58,8 +58,6 @@ The Grid arranges households in a configurable grid of rows and columns and adva
 
 ## Getting Started
 
->  Update the commands below to match your project's actual setup.
-
 ```bash
 # Clone the repository
 git clone https://github.com/<your-username>/<your-repo>.git
