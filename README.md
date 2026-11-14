@@ -117,4 +117,4 @@ Contributions, issues and feature requests are welcome. Feel free to open an [is
 
 ## License
 
-> Add your license here, e.g. MIT. See [`LICENSE`](LICENSE) for details.
+MIT
